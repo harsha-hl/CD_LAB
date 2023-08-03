@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+int main(){
+	skjfs
+	fdgs
+	fdg
+	
+	sdfv
+	sd
+	return 0;
+}
+
+
