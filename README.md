@@ -5,6 +5,7 @@ Compiler Design Lab (18CS63) Programs (LAB TEST and SEE)
 o Write a LEX program to count number of words, lines, characters and
 whitespaces in a given paragraph.
 o Write a YACC program to recognize strings of the form a n b n+m c m , n,m&gt;=0.
+
  Program 2:
 o Write a LEX program to count number of Positive and Negative integers and
 Positive &amp; Negative fractions.
@@ -27,8 +28,11 @@ and display the number of levels of nesting.
 display the number variables declared .
 Variable can be any basic data type or array type
 Example int a[10],a,b,c;
+
  Program 6: YACC program that reads the C statements for an input file and converts
 them in quadruple three address intermediate code.
+
  Program 7: Write a YACC program that identifies the Function Definition of C language.
+
  Program 8: Write a YACC program that generates Assembly language (Target) Code for
 valid Arithmetic Expression.
