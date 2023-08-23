@@ -1,4 +1,0 @@
-for(int a=0; a<10; i++){
-	double x = a/5;
-	x >=5;
-}#
